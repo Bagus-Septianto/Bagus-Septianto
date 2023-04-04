@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bagus Septianto</h1>
-- 🌱 I’m currently learning **Nuxt.js**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **Discord.py, Vue, Laravel**
+- 💬 Ask me about **Vue, Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
